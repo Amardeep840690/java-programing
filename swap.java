@@ -11,5 +11,6 @@ class swap {
         a=b;
         b=temp;
         System.out.println("after swaping a is "+a+" and b is "+b);
+        sc.close();
     }
 }

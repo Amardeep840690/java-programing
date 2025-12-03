@@ -20,6 +20,6 @@ class mathOperation {
         } else {
             System.out.println("division not possible ");
         }
-
+        sc.close();
     }
 }
