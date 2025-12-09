@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class swap {
+class A4_swap {
     public static void main(){
         Scanner sc=new Scanner(System.in);
         System.out.print("enter a number a = ");

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class mathOperation {
+class A3_mathOperation {
     public static void main() {
         Scanner sc = new Scanner(System.in);
 

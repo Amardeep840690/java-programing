@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class simpleInterest {
+class A2_simpleInterest {
     public static void main(){
         Scanner sc =new Scanner(System.in);
         System.out.print("enter principle amount = ");
